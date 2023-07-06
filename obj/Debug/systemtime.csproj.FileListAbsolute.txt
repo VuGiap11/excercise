@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\excercise\systemtime\bin\Debug\systemtime.exe.config
+C:\Users\tuan\Desktop\excercise\systemtime\bin\Debug\systemtime.exe
+C:\Users\tuan\Desktop\excercise\systemtime\bin\Debug\systemtime.pdb
+C:\Users\tuan\Desktop\excercise\systemtime\obj\Debug\systemtime.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\excercise\systemtime\obj\Debug\systemtime.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\excercise\systemtime\obj\Debug\systemtime.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\excercise\systemtime\obj\Debug\systemtime.exe
+C:\Users\tuan\Desktop\excercise\systemtime\obj\Debug\systemtime.pdb
